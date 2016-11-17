@@ -1,6 +1,12 @@
 [![PyPI](https://img.shields.io/pypi/v/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 [![PyPI](https://img.shields.io/pypi/dm/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 
+This is a fork of cheat, based on [the develop branch](https://github.com/chrisallenlane/cheat/commit/352a7605610a6b69b308ac7c6c54c4a3cc3b6ea5).
+
+Some features and bugfixes have been added which are not yet merged to
+upstream, such as CI testing and supporting multi-word values in EDITOR
+related environment variables.
+
 cheat
 =====
 `cheat` allows you to create and view interactive cheatsheets on the
