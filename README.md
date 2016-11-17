@@ -1,5 +1,6 @@
 [![PyPI](https://img.shields.io/pypi/v/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 [![PyPI](https://img.shields.io/pypi/dm/cheat.svg)](https://pypi.python.org/pypi/cheat/)
+[![Build Status](https://travis-ci.org/rski/cheat.svg?branch=master)](https://travis-ci.org/rski/cheat)
 
 This is a fork of cheat, based on [the develop branch](https://github.com/chrisallenlane/cheat/commit/352a7605610a6b69b308ac7c6c54c4a3cc3b6ea5).
 
