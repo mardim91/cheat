@@ -49,7 +49,7 @@ def editor():
 
 
 def open_with_editor(filepath):
-    """ Open `filepath` using the EDITOR specified by the environment variables """
+    """ Open `filepath` using the preferred editgor """
     editor_cmd = editor().split()
     try:
         subprocess.call(editor_cmd + [filepath])
